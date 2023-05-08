@@ -38,3 +38,9 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amorasavellar&" alt="amorasavellar" /></p>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
