@@ -22,7 +22,7 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
-<img align="left" alt="AWS" width="26px" src="https://icons8.com/icon/33039/amazon-web-services" />
+<img align="left" alt="Github" width="26px" src="/assets/GitHub.png" />
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 
