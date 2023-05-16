@@ -33,16 +33,6 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 <br />
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorasavellar&show_icons=true&theme=merko)
 
-<div align="center">
-  <a href="https://github.com/amorasavellar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amorasavellar&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorasavellar&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=compact)](https://github.com/amorasavellar/github-readme-stats)
