@@ -31,8 +31,13 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
 <br />
+
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorasavellar&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=compact)](https://github.com/amorasavellar/github-readme-stats)
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amorasavellar&show_icons=true&theme=dracula" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
+    </a>
+</div>
