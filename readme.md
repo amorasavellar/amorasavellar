@@ -35,9 +35,9 @@ In my spare time, I like to play video games, play guitar, produce electronic mu
 <br />
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amorasavellar&show_icons=true&theme=dracula" style="max-width: 100%;">
+        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amorasavellar&show_icons=true&theme=dracula" style="max-width: 100%;">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
+        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=dracula&layout=donut" style="max-width: 100%;">
     </a>
 </div>
