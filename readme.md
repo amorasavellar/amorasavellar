@@ -1,43 +1,28 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/leandro-amoras/">Leandro Amoras</a></h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
-
-I am a Computer Science student at the [Pontifical Catholic University of Goiás](https://pt.wikipedia.org/wiki/Pontif%C3%ADcia_Universidade_Cat%C3%B3lica_de_Goi%C3%A1s). I come from a great trajectory in the market, going through the positions of Data Analyst I, IT Consultant II, Data Scientist I in large companies such as [Enrst & Young](https://pt.wikipedia.org/wiki/Ernst_%26_Young), currently I work as Data Engineer II at [Porto Seguro](https://pt.wikipedia.org/wiki/Porto_(empresa)).
-
-I have tremendous passion and understanding of data-driven processes. I seek to get involved in projects with a significant impact on business and society decisions.
-
-In my spare time, I like to play video games, play guitar, produce electronic music or play football.
-
-- 🔭 I’m currently working on **[public_knowledge_base - Data Engineer](https://github.com/amorasavellar/public_knowledge_base)**
-
-- 💬 Ask me about: **Python, R, SQL and AWS Data Pipelines and**
-
+<h1 align="center"> Hello! I'm Leandro, better known as Amoras!</h1>
+<h4 align="center">Data Engineer | Data Architect | AI, ML Enthusiast</h4>
 <br />
+I'm a Computer Science and Big Data & Artificial Intelligence student at PUC Goiás, currently living in Goiânia, Goiás. With over 8 years of experience in the data industry, my passion is transforming raw data into value, generating relevant insights for society.
+
+I work as a Data Architect, specializing in Data Engineering, Big Data, and Artificial Intelligence. I've contributed to major companies like EY and Porto, developing scalable, cost-effective cloud solutions.
+
+Welcome to my GitHub! Here I share projects, studies, and learnings that are part of my professional and academic journey.
 <br />
 
-### Languages and Tools:
+### 📊 GitHub Stats:
 
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-
-<img align="left" alt="Github" width="26px" src="/assets/GitHub.png" />
-
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-
-<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-
-<br />
-
-<br />
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amorasavellar&show_icons=true&theme=merko" style="max-width: 100%;">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=donut" style="max-width: 100%;">
-    </a>
+    <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amorasavellar&theme=dracula">
+    <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=donut" style="max-width: 100%;">
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
