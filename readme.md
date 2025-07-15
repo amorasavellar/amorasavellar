@@ -11,8 +11,8 @@ Welcome to my GitHub! Here I share projects, studies, and learnings that are par
 ### 📊 GitHub Stats:
 
 <div align="center">
-    <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amorasavellar&theme=dracula">
-    <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=donut" style="max-width: 100%;">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amorasavellar&theme=dracula">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amorasavellar&show_icons=true&theme=merko&layout=donut" style="max-width: 100%;">
 </div>
 
 ### 🛠️ Tech Stack
