@@ -1,9 +1,7 @@
 <h1 align="center"> Hello! I'm Leandro, better known as Amoras!</h1>
 <h4 align="center">Data Engineer | Data Architect | AI, ML Enthusiast</h4>
 <br />
-I'm a Computer Science and Big Data & Artificial Intelligence student at PUC Goiás. With over 8 years of experience in the data industry, my passion is transforming raw data into value, generating relevant insights for society.
-
-I work as a Data Architect, specializing in Data Engineering, Big Data, and Artificial Intelligence.
+I'm a Computer Science and Big Data & Artificial Intelligence student at PUC Goiás. With over 8 years of experience in the data industry, my passion is transforming raw data into value, generating relevant insights for society. I work as a Data Architect, specializing in Data Engineering, Big Data, and Artificial Intelligence.
 
 Welcome to my GitHub! Here I share projects, studies, and learnings that are part of my professional and academic journey.
 <br />
